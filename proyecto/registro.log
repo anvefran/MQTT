@@ -1,0 +1,43 @@
+127.0.0.1 Se ha conectado al broker
+El usuario con connfd 4 ha solicitado: host1/#
+
+127.0.0.1 Se ha conectado al broker
+%Cpu(s):5.0us,5.0sy,0.0ni,88.8id,0.0wa,1.1hi,0.0si,0.0st;MiBMem:32398.5total,26487.6free,5686.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.0availMem ha enviado %Cpu(s):5.0us,5.0sy,0.0ni,88.8id,0.0wa,1.1hi,0.0si,0.0st;MiBMem:32398.5total,26487.6free,5686.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.0availMem
+%Cpu(s):6.8us,6.1sy,0.0ni,86.4id,0.0wa,0.7hi,0.0si,0.0st;MiBMem:32398.5total,26489.4free,5685.1used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26582.8availMem ha enviado %Cpu(s):6.8us,6.1sy,0.0ni,86.4id,0.0wa,0.7hi,0.0si,0.0st;MiBMem:32398.5total,26489.4free,5685.1used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26582.8availMem
+%Cpu(s):7.4us,5.9sy,0.0ni,85.9id,0.0wa,0.8hi,0.0si,0.0st;MiBMem:32398.5total,26490.5free,5684.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26583.9availMem ha enviado %Cpu(s):7.4us,5.9sy,0.0ni,85.9id,0.0wa,0.8hi,0.0si,0.0st;MiBMem:32398.5total,26490.5free,5684.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26583.9availMem
+%Cpu(s):9.1us,9.0sy,0.0ni,80.5id,0.0wa,1.4hi,0.0si,0.0st;MiBMem:32398.5total,26483.6free,5690.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26577.0availMem ha enviado %Cpu(s):9.1us,9.0sy,0.0ni,80.5id,0.0wa,1.4hi,0.0si,0.0st;MiBMem:32398.5total,26483.6free,5690.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26577.0availMem
+%Cpu(s):7.2us,7.0sy,0.0ni,84.7id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.8free,5686.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.1availMem ha enviado %Cpu(s):7.2us,7.0sy,0.0ni,84.7id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.8free,5686.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.1availMem
+%Cpu(s):7.5us,5.3sy,0.0ni,86.1id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.5free,5687.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.9availMem ha enviado %Cpu(s):7.5us,5.3sy,0.0ni,86.1id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.5free,5687.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.9availMem
+127.0.0.1 Se ha conectado al broker
+%Cpu(s):4.2us,4.1sy,0.0ni,90.2id,0.0wa,1.5hi,0.0si,0.0st;MiBMem:32398.5total,26487.5free,5687.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.9availMem ha enviado %Cpu(s):4.2us,4.1sy,0.0ni,90.2id,0.0wa,1.5hi,0.0si,0.0st;MiBMem:32398.5total,26487.5free,5687.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.9availMem
+%Cpu(s):3.3us,3.0sy,0.0ni,92.4id,0.0wa,1.4hi,0.0si,0.0st;MiBMem:32398.5total,26488.1free,5686.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.4availMem ha enviado %Cpu(s):3.3us,3.0sy,0.0ni,92.4id,0.0wa,1.4hi,0.0si,0.0st;MiBMem:32398.5total,26488.1free,5686.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.4availMem
+El usuario con connfd 6 ha solicitado: host1/#
+
+%Cpu(s):5.4us,2.9sy,0.0ni,90.7id,0.0wa,0.9hi,0.0si,0.0st;MiBMem:32398.5total,26487.7free,5686.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.1availMem ha enviado %Cpu(s):5.4us,2.9sy,0.0ni,90.7id,0.0wa,0.9hi,0.0si,0.0st;MiBMem:32398.5total,26487.7free,5686.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26581.1availMem
+%Cpu(s):7.7us,7.1sy,0.0ni,84.2id,0.0wa,1.0hi,0.0si,0.0st;MiBMem:32398.5total,26489.6free,5684.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26583.0availMem ha enviado %Cpu(s):7.7us,7.1sy,0.0ni,84.2id,0.0wa,1.0hi,0.0si,0.0st;MiBMem:32398.5total,26489.6free,5684.9used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26583.0availMem
+%Cpu(s):7.8us,8.1sy,0.0ni,83.0id,0.0wa,1.0hi,0.0si,0.0st;MiBMem:32398.5total,26492.2free,5682.3used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26585.6availMem ha enviado %Cpu(s):7.8us,8.1sy,0.0ni,83.0id,0.0wa,1.0hi,0.0si,0.0st;MiBMem:32398.5total,26492.2free,5682.3used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26585.6availMem
+%Cpu(s):6.3us,3.8sy,0.0ni,88.7id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.3free,5687.2used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.6availMem ha enviado %Cpu(s):6.3us,3.8sy,0.0ni,88.7id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26487.3free,5687.2used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26580.6availMem
+127.0.0.1 Se ha conectado al broker
+El usuario con connfd 7 ha solicitado: host1/+/free
+
+127.0.0.1 Se ha conectado al broker
+%Cpu(s):10.8us,18.3sy,0.0ni,70.5id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25270.1free,6904.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25363.5availMem ha enviado %Cpu(s):10.8us,18.3sy,0.0ni,70.5id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25270.1free,6904.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25363.5availMem
+%Cpu(s):10.7us,16.0sy,0.0ni,73.0id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25168.5free,7006.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25261.9availMem ha enviado %Cpu(s):10.7us,16.0sy,0.0ni,73.0id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25168.5free,7006.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25261.9availMem
+%Cpu(s):6.9us,16.9sy,0.0ni,75.8id,0.0wa,0.5hi,0.0si,0.0st;MiBMem:32398.5total,25091.7free,7082.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25185.1availMem ha enviado %Cpu(s):6.9us,16.9sy,0.0ni,75.8id,0.0wa,0.5hi,0.0si,0.0st;MiBMem:32398.5total,25091.7free,7082.8used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25185.1availMem
+127.0.0.1 Se ha conectado al broker
+El usuario con connfd 4 ha solicitado: host1/RAM/free
+
+127.0.0.1 Se ha conectado al broker
+%Cpu(s):7.6us,7.2sy,0.0ni,84.0id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26502.4free,5672.1used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26595.8availMem ha enviado %Cpu(s):7.6us,7.2sy,0.0ni,84.0id,0.0wa,1.2hi,0.0si,0.0st;MiBMem:32398.5total,26502.4free,5672.1used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26595.8availMem
+%Cpu(s):9.3us,6.8sy,0.0ni,82.8id,0.0wa,1.1hi,0.0si,0.0st;MiBMem:32398.5total,26502.3free,5672.2used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26595.7availMem ha enviado %Cpu(s):9.3us,6.8sy,0.0ni,82.8id,0.0wa,1.1hi,0.0si,0.0st;MiBMem:32398.5total,26502.3free,5672.2used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26595.7availMem
+%Cpu(s):5.5us,5.0sy,0.0ni,88.2id,0.0wa,1.3hi,0.0si,0.0st;MiBMem:32398.5total,26503.9free,5670.6used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26597.2availMem ha enviado %Cpu(s):5.5us,5.0sy,0.0ni,88.2id,0.0wa,1.3hi,0.0si,0.0st;MiBMem:32398.5total,26503.9free,5670.6used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.26597.2availMem
+127.0.0.1 Se ha conectado al broker
+El usuario con connfd 6 ha solicitado: host1/CPU/idle
+
+127.0.0.1 Se ha conectado al broker
+127.0.0.1 Se ha conectado al broker
+%Cpu(s):7.1us,12.4sy,0.0ni,80.3id,0.0wa,0.2hi,0.0si,0.0st;MiBMem:32398.5total,25746.2free,6428.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25839.5availMem ha enviado %Cpu(s):7.1us,12.4sy,0.0ni,80.3id,0.0wa,0.2hi,0.0si,0.0st;MiBMem:32398.5total,25746.2free,6428.4used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25839.5availMem
+El usuario con connfd 8 ha solicitado: host1/+/idle
+
+%Cpu(s):5.7us,13.4sy,0.0ni,80.6id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25638.5free,6536.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25731.8availMem ha enviado %Cpu(s):5.7us,13.4sy,0.0ni,80.6id,0.0wa,0.3hi,0.0si,0.0st;MiBMem:32398.5total,25638.5free,6536.0used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25731.8availMem
+%Cpu(s):9.2us,17.3sy,0.0ni,72.7id,0.0wa,0.8hi,0.0si,0.0st;MiBMem:32398.5total,25537.0free,6637.5used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25630.4availMem ha enviado %Cpu(s):9.2us,17.3sy,0.0ni,72.7id,0.0wa,0.8hi,0.0si,0.0st;MiBMem:32398.5total,25537.0free,6637.5used,224.0buff/cache;MiBSwap:98304.0total,98291.4free,12.6used.25630.4availMem
