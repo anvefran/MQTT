@@ -1,13 +1,28 @@
-# MQTT
-En esta solución, el Publisher ingresa la información de conexión, es decir, el nombre del host.
-Esta será enviada al bróker para sesgar el envío dependiendo de lo elegido por el suscriptor. El
-proceso Publisher necesita ejecutar un comando para obtener el valor de la métrica requerida por
-lo que crea un proceso hijo que mediante execvp, ejecuta el comando y redirige la salida al stdin
-del proceso padre.
-## Diagrama de flujo completo 
+# Real-Time Monitoring Solution for GNU/Linux Systems Metrics
+
+This project provides a real-time monitoring solution for metrics from various GNU/Linux systems, utilizing a lightweight MQTT protocol. The system is composed of a broker, publisher, and subscriber, and incorporates context switching through forks and concurrency using threads.
+
+## Components
+
+1. **Publisher**  
+   The Publisher is responsible for entering connection information, such as the host name. This information is sent to the broker to direct the data according to the subscriber's selection. The Publisher process executes a command to obtain the required metric value by creating a child process using `execvp`, which runs the command and redirects the output to the parent process's stdin.
+
+2. **Broker**  
+   The broker handles the distribution of messages between the Publisher and Subscriber, ensuring that data is routed correctly based on the subscriber's preferences.
+
+3. **Subscriber**  
+   The Subscriber receives data from the broker and processes it according to the metrics it is interested in.
+
+## Key Features
+
+- **Real-Time Monitoring:** Efficiently monitors and reports metrics in real time from multiple GNU/Linux systems.
+- **Lightweight MQTT Protocol:** Uses MQTT for efficient communication with minimal overhead.
+- **Concurrency and Context Switching:** Implements context switching through forks and manages concurrency using threads to handle multiple processes effectively.
+
+## Complete Flowchart
 ![project diagram](/resources/flujoSOproject.png)
 
-## Ejemplos de salida con diferentes entradas
+## Output Examples with Different Inputs
 ### Host1 o Host1/#
 ![host1](/resources/host1.png)
 ### Host1/CPU o Host1/CPU/#
